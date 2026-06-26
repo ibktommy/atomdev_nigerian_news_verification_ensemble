@@ -1,0 +1,29 @@
+```text
+# --- Python Virtual Environment Assets ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Python Compilation and Cache Artifacts ---
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# --- Operating System & Editor Specific Metadata ---
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+
+# --- Local Streamlit State Cache Logs ---
+.streamlit/config.toml
+.streamlit/runtime/
