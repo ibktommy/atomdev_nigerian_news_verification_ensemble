@@ -1,5 +1,6 @@
 # 🇳🇬 Automated Nigerian News Verification Portal
 ### *An Engineering Framework for Multi-Classifier Ensemble Machine Learning Architectures*
+##### https://atomdev-nigeria-news-verification-ensemble.streamlit.app/
 
 ---
 
